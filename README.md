@@ -3,7 +3,7 @@ This research presents a comprehensive analysis of the competitive dynamics betw
 ## Intoduction
 <img width="1018" height="475" alt="Screenshot 2025-11-27 060650" src="https://github.com/user-attachments/assets/734cbf8f-82b5-4262-be6a-b17061cbe241" />
 
-## 2 Research Questions
+## Research Questions
 - **RQ1:** How do different premise words (Redefine, Assess, Fact Check, Review, Validate, Verify) influence the model’s tendency to prioritize contextual information versus pre-trained memory?
 - **RQ2:**  What happens when we introduce explicit meta-prompts instructing models to prioritize either context or memory, and how effective are these strategic interventions?
 - **RQ3:**  How do model size (GPT-2 Small/Medium/Large) and architecture type (GPT-2 vs TinyLlama) affect the handling of context-memory conflicts?
